@@ -19,8 +19,8 @@ public class EleveServiceImpl implements EleveService {
 		
 		e.addNote(noteFinale);
 		
-		logger.debug("On a obtenu la note : " + noteFinale);
-		logger.trace("e vaut maintenant" + e);
+		logger.debug("On a obtenu la note : {}", noteFinale);
+		logger.trace("e vaut maintenant {}", e);
 		
 		return noteFinale;
 	}

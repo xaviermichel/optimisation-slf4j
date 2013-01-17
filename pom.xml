@@ -88,7 +88,7 @@
 	<modules>
 		<module>0-aucune</module>
 		<module>1-tostring</module>
-		<!--<module>2-reference</module>-->
+		<module>2-reference</module>
 	</modules>
 
 </project>

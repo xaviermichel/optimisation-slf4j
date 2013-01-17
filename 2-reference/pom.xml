@@ -9,7 +9,7 @@
 		<relativePath>..</relativePath>
 	</parent>
 
-	<artifactId>slf4j-concat-optimisation</artifactId>
+	<artifactId>slf4j-reference-optimisation</artifactId>
 	<name>Test with reference optimisation</name>
 
 </project>
