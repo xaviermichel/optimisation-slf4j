@@ -82,12 +82,12 @@
 		  <groupId>junit</groupId>
 		  <artifactId>junit</artifactId>
 		  <version>${junit.version}</version>
-	  </dependency>      
+	  </dependency>
 	</dependencies>
-	
+
 	<modules>
 		<module>0-aucune</module>
-		<!--<module>1-tostring</module>-->
+		<module>1-tostring</module>
 		<!--<module>2-reference</module>-->
 	</modules>
 
