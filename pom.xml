@@ -5,7 +5,7 @@
 	<groupId>fr.xmichel.test</groupId>
 	<artifactId>slf4j</artifactId>
 	<version>1.0.0</version>
-	<name>User optimisation test on SLF4J</name>
+	<name>Test optimisation</name>
 	<description></description>
 	<packaging>pom</packaging>
 
@@ -86,9 +86,10 @@
 	</dependencies>
 
 	<modules>
-		<module>0-aucune</module>
-		<module>1-tostring</module>
-		<module>2-reference</module>
+		<module>aucune</module>
+		<module>string_builder</module>
+		<module>passage_ref</module>
+		<module>string_builder_et_ref</module>
 	</modules>
 
 </project>
